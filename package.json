@@ -1,6 +1,6 @@
 {
-  "name": "babel-plugin-import",
-  "version": "1.12.0",
+  "name": "babel-plugin-import-refined",
+  "version": "1.12.1",
   "description": "Component modular import plugin for babel.",
   "repository": {
     "type": "git",
